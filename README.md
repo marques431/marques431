@@ -87,3 +87,5 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" alt="vuejs" width="40" height="40"/>
 	</a>
 </p>
+
+![snake gif](https://github.com/marques431/marques431/blob/output/github-contribution-grid-snake.svg)
