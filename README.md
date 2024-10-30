@@ -88,4 +88,6 @@
 	</a>
 </p>
 
-![snake gif](https://github.com/marques431/marques431/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/marques431/marques431/blob/output/github-snake.svg)
+
+
