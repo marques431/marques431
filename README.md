@@ -48,4 +48,8 @@ Welcome to my GitHub profile! I'm a passionate developer with experience across 
 
 ---
 
+## 🏆 Award(s)
+🥈 [Arquivo.pt 2020 Awards - 2nd Place](https://sobre.arquivo.pt/en/meet-the-winners-of-the-arquivo-pt-award-2020/#2place)
+
+---
 ![snake gif](https://github.com/marques431/marques431/blob/output/github-snake.svg)
