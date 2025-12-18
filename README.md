@@ -41,10 +41,39 @@ Welcome to my GitHub profile! I'm a passionate developer with experience across 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
 
 ### DevOps & Tools
+<a href="https://docs.ansible.com/projects/ansible/latest/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/></a>
+
+---
+## 📜 Ceritificates
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/3d237b16-c5c6-4650-918d-6b7b6dfe6ddd.png" width="40" height="40">
+    </td>
+    <td>
+      <strong>Ethical Hacker</strong><br>
+      Cisco Network Academy
+    </td>
+  </tr>
+</table>
+
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/introduction_to_cybersecurity_16.png" alt="Introduction to Cibersecurity" width="40" height="40"/>
+    </td>
+    <td>
+      <strong>Introduction to Cybersecurity</strong><br>
+      Cisco Network Academy
+    </td>
+  </tr>
+</table>
 
 ---
 
